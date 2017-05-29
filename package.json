@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "prop-types": "^15.5.8",
-    "react-dropzone": "^3.7.3",
+    "react-dropzone": "https://github.com/stenbln/react-dropzone/tarball/master",
     "react-s3-uploader": "^4.0.0"
   },
   "peerDependencies": {
